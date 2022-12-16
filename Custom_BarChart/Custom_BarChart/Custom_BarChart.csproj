@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Syncfusion.SfChart.WPF" Version="20.3.0.61" />
+    <PackageReference Include="Syncfusion.SfChart.WPF" Version="*" />
   </ItemGroup>
 
 </Project>
