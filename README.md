@@ -1,6 +1,6 @@
 # How to change the individual appearance of the WPF Bar Chart (SfChart)?
 
-This article describes how to change the individual appearance(color) of bar segment based on the corresponding YValues in WPF SfChart by following these steps:
+This article describes how to change the individual appearance(color) of bar segment based on the corresponding YValues in [WPF SfChart](https://www.syncfusion.com/wpf-controls/charts) by following these steps:
 
 **Step 1:** To change color for specific data point in chart you can refer this [KB article](https://www.syncfusion.com/kb/10928/how-to-change-colors-of-specific-data-points-in-the-chart).
 
@@ -115,3 +115,11 @@ public class Model
 [Series customization in WPF SfChart](https://help.syncfusion.com/wpf/charts/seriescustomization)
 
 [How-to-customize-the-chart-series-in-WPF-SfChart?](https://github.com/SyncfusionExamples/how-to-customize-the-chart-series-in-wpf-sfchart)
+
+## Troubleshooting
+
+#### Path too long exception
+
+If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
+
+For more details, refer to the KB on [How to change the individual appearance of the WPF Bar Chart (SfChart)?](https://support.syncfusion.com/kb/article/12186/how-to-customize-the-individual-appearance-of-the-wpf-bar-chart-sfchart)
