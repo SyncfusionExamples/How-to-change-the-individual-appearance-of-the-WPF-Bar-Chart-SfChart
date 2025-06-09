@@ -122,4 +122,4 @@ public class Model
 
 If you are facing a path too long exception when building this example project, close Visual Studio and rename the repository to a shorter name before building the project.
 
-For more details, refer to the KB on [How to change the individual appearance of the WPF Bar Chart (SfChart)?](https://support.syncfusion.com/kb/article/12186/how-to-customize-the-individual-appearance-of-the-wpf-bar-chart-sfchart)
+For more details, refer to the KB on [How to change the individual appearance of the WPF Bar Chart (SfChart)](https://support.syncfusion.com/kb/article/12186/how-to-customize-the-individual-appearance-of-the-wpf-bar-chart-sfchart)
